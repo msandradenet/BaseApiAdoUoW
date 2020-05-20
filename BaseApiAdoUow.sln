@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseApiAdoUow", "BaseApiAdoUow.csproj", "{1CA6121F-DBEF-4135-9831-E9E6C42CA683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA6121F-DBEF-4135-9831-E9E6C42CA683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA6121F-DBEF-4135-9831-E9E6C42CA683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA6121F-DBEF-4135-9831-E9E6C42CA683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA6121F-DBEF-4135-9831-E9E6C42CA683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B745C6-FB48-430B-B414-AF265A69581E}
+	EndGlobalSection
+EndGlobal
